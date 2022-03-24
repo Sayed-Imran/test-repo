@@ -1,2 +1,3 @@
 date
 cal
+echo $(date)
