@@ -1,5 +1,5 @@
 date
 echo "changes made"
 echo "It's working"
-echo "Poll SCM working"
+sleep 5
 docker run -dit --name runningFromJenkins centos:7
