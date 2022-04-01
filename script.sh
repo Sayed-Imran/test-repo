@@ -1,5 +1,5 @@
 date
 cal
-sleep 10
+sleep 5
 echo "changes made"
 echo "It's working"
