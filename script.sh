@@ -1,5 +1,5 @@
 date
 echo "changes made"
 echo "It's working"
-sleep 5
+sleep 10
 docker run -dit --name runningFromJenkins centos:7
