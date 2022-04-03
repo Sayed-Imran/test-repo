@@ -1,2 +1,2 @@
 import os
-os.system("tree c:")
+os.system("tree C:/")
